@@ -8,6 +8,8 @@
 
 import UIKit
 
+
+/// Card
 public class Card: NSObject {
 
     var id: Int
